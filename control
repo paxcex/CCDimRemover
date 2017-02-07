@@ -1,0 +1,9 @@
+Package: com.pxcex.dimremove
+Name: CC Dim Remover
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Remove Control Center Dim/Darkening View
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
